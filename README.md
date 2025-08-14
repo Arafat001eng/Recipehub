@@ -7,8 +7,6 @@ With RecipeHub, you can explore a diverse array of recipes, save your favorite o
 
 One of the standout features of RecipeHub is its ability to post your own culinary creations, similar to the way you'd share photos on Instagram. You can showcase your cooking prowess by uploading your recipes, complete with mouthwatering images, step-by-step instructions, and ingredient lists. Whether you're a seasoned chef or just starting your culinary journey, RecipeHub is the perfect digital kitchen companion, offering you a place to discover, share, and communicate with a vibrant community of fellow food enthusiasts.
 
-Live : [https://concerned-picture-9849-frontend.vercel.app/]
-
 ## Key Features
 
 - **User Registration and Authentication**:
@@ -88,8 +86,6 @@ Live : [https://concerned-picture-9849-frontend.vercel.app/]
 
 
 ## Backend Application Routes, Endpoints and Usage
-
-- Backend Link :[https://concerned-picture-9849-jcof.onrender.com/]
 
 The backend is built on Node.js.This documentation outlines the available routes and endpoints for the backend application. These routes are responsible for handling various operations, including user authentication, recipe management, user management, and comment handling.
 | Route                        | Use Case                               | Access               |
@@ -254,14 +250,6 @@ The backend is built on Node.js.This documentation outlines the available routes
 Please ensure that proper authentication and authorization mechanisms are in place for private routes, as they require user authentication.
 
 ## Getting Started
-
-To run RecipeHub locally, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/your-username/recipehub.git`
-2. Install dependencies: `npm install`
-3. Set up the database and configure environment variables.
-4. Start the development frontend-app: `npm start`
-5. Start the development server: `npm run server`
 # Some sample pictures of our Website
 ### Home Page
 <img width="948" alt="Home Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b01m52i5a9xqgxa0pg7x.png">
@@ -277,25 +265,13 @@ To run RecipeHub locally, follow these steps:
 <img width="948" alt="Explore Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/120l1mkq8c6wwc6jd4io.png">
 <img width="948" alt="Explore Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pu2o5rjqwli7fkbpgt9p.png">
 
-### Feed Page
-<img width="948" alt="Feed Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/iv2453qehp2ir903stfs.png">
-
-### Single Post Page
-<img width="948" alt="Single Post Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kc56huk0ba1mlackhc1s.png">
-
-### Account Page
-<img width="948" alt="Account Page" src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/896c1v3u0r881s1qhdh4.png">
-
-
 
 ## Contributors
 
 RecipeHub is a teamwork project. Meet our awesome teammates:
-- Ayushmaan Rajput(team lead) - Email: ayushmaanrajput25feb@gmail.com
-- Nishant Singh - Email: nishantkr488@gmail.com
-- Ranvijay Tiwari - Email: ranvijaytiwari0000@gmail.com
-- Vamshikrishna Bejjarapu - Email: vamshikrishna99089@gmail.com
 
-*Note: This group project was developed in 5 days.*
-<br>
--------------------------------Thank You😊-----------------------------------------
+Yeasir Arafat Id-222-35-1151
+
+Arefin Sourov Id-222-35-1171
+
+Adnan Rupom Id-0242220005341142
